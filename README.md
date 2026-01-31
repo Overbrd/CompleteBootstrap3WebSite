@@ -40,17 +40,17 @@ All partials are structured to avoid hash‑routing conflicts.
 ---
 
 ## 📁 Project Structure
-/bootstrap-3-sample-web-site
-│
-├── css/
-├── js/
-├── fonts/
-│
-├── index.html
-├── templates/      (optional depending on setup)
-├── partials/       (About, FAQ, Blog, Contact, etc.)
-│
-└── README.md
+/bootstrap-3-sample-web-site  
+│  
+├── css/  
+├── js/  
+├── fonts/  
+│  
+├── index.html  
+├── templates/      (optional depending on setup)  
+├── partials/       (About, FAQ, Blog, Contact, etc.)  
+│  
+└── README.md  
 
 
 ---
