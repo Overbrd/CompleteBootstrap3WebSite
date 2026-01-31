@@ -1,0 +1,246 @@
+		    when('/Ad.Management', {
+
+            templateUrl: '/partials/Ad.Management.php',
+
+            controller: 'AdManagementCtrl',
+
+            title: 'Ad Management Web Hosting Software Service Provider'
+
+        }).
+			when('/Blogs', {
+
+            templateUrl: '/partials/Blogs.php',
+
+            controller: 'BlogsCtrl',
+
+            title: 'Blog Web Hosting Software Service Provider'
+
+        }).
+			when('/Calendars', {
+
+            templateUrl: '/partials/Calendars.php',
+
+            controller: 'CalendarsCtrl',
+
+            title: 'Calendars Web Hosting Software Service Provider'
+
+        }).
+			when('/Customer.Support', {
+
+            templateUrl: '/partials/Customer.Support.php',
+
+            controller: 'Customer.SupportCtrl',
+
+            title: 'Customer Support Web Hosting Software Service Provider'
+
+        }).
+			when('/Database.Tools', {
+
+            templateUrl: '/partials/Database.Tools.php',
+
+            controller: 'DatabaseToolsCtrl',
+
+            title: 'Database Tools Web Hosting Software Service Provider'
+
+        }).
+			when('/E.Commerce', {
+
+            templateUrl: '/partials/E.Commerce.php',
+
+            controller: 'ECommerceCtrl',
+
+            title: 'E-Commerce E Commerce Web Hosting Software Service Provider'
+
+        }).
+			when('/Educational.Tools', {
+
+            templateUrl: '/partials/Educational.Tools.php',
+
+            controller: 'EducationalToolsCtrl',
+
+            title: 'Educational Tools Web Hosting Software Service Provider'
+
+        }).
+			when('/Enterprise.Resource.Planning.ERP', {
+
+            templateUrl: '/partials/Enterprise.Resource.Planning.ERP.php',
+
+            controller: 'EnterpriseResourcePlanningERPCtrl',
+
+            title: 'Enterprise Resource Planning ERP Web Hosting Software Service Provider'
+
+        }).
+			when('/File.Management', {
+
+            templateUrl: '/partials/File.Management.php',
+
+            controller: 'FileManagementCtrl',
+
+            title: 'File Management Web Hosting Software Service Provider'
+
+        }).
+			when('/Forums.and.Bulletin.Boards', {
+
+            templateUrl: '/partials/Forums.and.Bulletin.Boards.php',
+
+            controller: 'ForumsandBulletinBoardsCtrl',
+
+            title: 'Forums and Bulletin Boards Web Hosting Software Service Provider'
+
+        }).
+			when('/Frameworks', {
+
+            templateUrl: '/partials/Frameworks.php',
+
+            controller: 'FrameworksCtrl',
+
+            title: 'Frameworks Web Hosting Software Service Provider'
+
+        }).
+			when('/Games', {
+
+            templateUrl: '/partials/Games.php',
+
+            controller: 'GamesCtrl',
+
+            title: 'Games Web Hosting Software Service Provider'
+
+        }).
+			when('/Guestbooks', {
+
+            templateUrl: '/partials/Guestbooks.php',
+
+            controller: 'GuestbooksCtrl',
+
+            title: 'Guestbooks Web Hosting Software Service Provider'
+
+        }).
+			when('/Image.Galleries', {
+
+            templateUrl: '/partials/Image.Galleries.php',
+
+            controller: 'ImageGalleriesCtrl',
+
+            title: 'Image Galleries Web Hosting Software Service Provider'
+
+        }).
+			when('/Micro.Blogs', {
+
+            templateUrl: '/partials/Micro.Blogs.php',
+
+            controller: 'MicroBlogsCtrl',
+
+            title: 'Micro Blogs Web Hosting Software Service Provider'
+
+        }).
+			when('/Music', {
+
+            templateUrl: '/partials/Music.php',
+
+            controller: 'MusicCtrl',
+
+            title: 'Music Web Hosting Software Service Provider'
+
+        }).
+			when('/Other.Software', {
+
+            templateUrl: '/partials/Other.Software.php',
+
+            controller: 'OtherSoftwareCtrl',
+
+            title: 'Other Software Web Hosting Software Service Provider'
+
+        }).
+			when('/Ad.Management', {
+
+            templateUrl: '/partials/Ad.Management.php',
+
+            controller: 'AdManagementCtrl',
+
+            title: 'Ad Management Web Hosting Software Service Provider'
+
+        }).
+			when('/PERL.Scripts', {
+
+            templateUrl: '/partials/PERL.Scripts.php',
+
+            controller: 'PERLScriptsCtrl',
+
+            title: 'PERL Scripts Web Hosting Software Service Provider'
+
+        }).
+			when('/Polls.and.Analytics', {
+
+            templateUrl: '/partials/Polls.and.Analytics.php',
+
+            controller: 'PollsandAnalyticsCtrl',
+
+            title: 'Polls and Analytics Web Hosting Software Service Provider'
+
+        }).
+			when('/Portals.and.Content.Management.Systems.CMS', {
+
+            templateUrl: '/partials/Portals.and.Content.Management.Systems.CMS.php',
+
+            controller: 'PortalsandContentManagementSystemsCMSCtrl',
+
+            title: 'Portals and Content Management Systems CMS Web Hosting Software Service Provider'
+
+        }).
+			when('/Project.Management', {
+
+            templateUrl: '/partials/Project.Management.php',
+
+            controller: 'ProjectManagementCtrl',
+
+            title: 'Project Management Web Hosting Software Service Provider'
+
+        }).
+			when('/Rich.Site.Summary.RSS', {
+
+            templateUrl: '/partials/Rich.Site.Summary.RSS.php',
+
+            controller: 'RichSiteSummaryRSSCtrl',
+
+            title: 'Rich Site Summary RSS Web Hosting Software Service Provider'
+
+        }).
+			when('/Social.Networking', {
+
+            templateUrl: '/partials/Social.Networking.php',
+
+            controller: 'SocialNetworkingCtrl',
+
+            title: 'Social Networking Web Hosting Software Service Provider'
+
+        }).
+			when('/Video', {
+
+            templateUrl: '/partials/Video.php',
+
+            controller: 'VideoCtrl',
+
+            title: 'Video Web Hosting Software Service Provider'
+
+        }).
+			when('/Webmail.Software', {
+
+            templateUrl: '/partials/Webmail.Software.php',
+
+            controller: 'WebmailSoftwareCtrl',
+
+            title: 'Webmail Software Web Hosting Software Service Provider'
+
+        }).
+			when('/Wikis', {
+
+            templateUrl: '/partials/Wikis.php',
+
+            controller: 'WikisRSSCtrl',
+
+            title: 'Wikis Web Hosting Software Service Provider'
+
+        }).
+		
+		
+		
