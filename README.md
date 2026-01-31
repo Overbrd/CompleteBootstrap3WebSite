@@ -59,7 +59,7 @@ All partials are structured to avoid hash‑routing conflicts.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/CompleteBootstrap3WebSite.git
+git clone https://github.com/Overbrd/CompleteBootstrap3WebSite.git
 ```
 ### 2. Open the project
 Simply open index.html in your browser — no build tools required.
